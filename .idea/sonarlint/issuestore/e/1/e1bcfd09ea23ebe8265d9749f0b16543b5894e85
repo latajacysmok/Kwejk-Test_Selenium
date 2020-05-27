@@ -1,0 +1,15 @@
+
+isquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Âİ´“8Äîá§ú-
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÛè+8ãáô¦ú-
+rsquid:HiddenFieldCheck'"IRename "oldTitleOfPictureList" which hides the field declared at line 21.(ÀÎèğ8ÍÅ§ú-
+Vsquid:S1068"9Remove this unused "oldTitleOfPictureList" private field.(šÚ€P8ÍÅ§ú-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«è¬
+psquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ8êíıù-
+9squid:S36263"Remove this redundant jump.(ûÁİ…8®´Å÷ú-
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ì£ ½8Å¥‚¤ú-
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ûğÕ®ÿÿÿÿÿ8ÁùÉüù-
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÚ€P8Íãƒ§ú-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¾Ü‚—øÿÿÿÿ8‰¥Î§ú-
+wsquid:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÎèğ8Ë¬Á§ú-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(–½‰ğşÿÿÿÿ8í—ä§ú-
